@@ -12,7 +12,7 @@ La API pública utilizada es [DemoQA Swagger API](https://demoqa.com/swagger/), 
 - **Apache JMeter**: Simulación de carga y rendimiento sobre endpoints.
 
 ## 📁 Estructura del proyecto
-```
+```bash
 api-automation-project/
 ├── README.md
 ├── .gitignore
@@ -31,7 +31,6 @@ api-automation-project/
 │   └── DemoQA_JMeterTest.jmx
 └── docs/
     └── HowToRun.md
-
 ```
 
 ## ✅ Casos de prueba principales
