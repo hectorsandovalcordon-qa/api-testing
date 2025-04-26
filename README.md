@@ -13,7 +13,25 @@ La API pública utilizada es [DemoQA Swagger API](https://demoqa.com/swagger/), 
 
 ## 📁 Estructura del proyecto
 ```
-api-automation-project/ ├── README.md ├── .gitignore ├── postman/ │ └── DemoQA_TestCollection.json ├── katalon/ │ └── scripts/ ├── restassured/ │ ├── src/test/java/ │ │ └── api/ │ │ └── DemoQATests.java │ └── pom.xml ├── soapui/ │ └── DemoQA-SoapUI-Project.xml ├── jmeter/ │ └── DemoQA_JMeterTest.jmx └── docs/ └── HowToRun.md
+api-automation-project/
+├── README.md
+├── .gitignore
+├── postman/
+│   └── DemoQA_TestCollection.json
+├── katalon/
+│   └── scripts/
+├── restassured/
+│   ├── src/test/java/
+│   │   └── api/
+│   │       └── DemoQATests.java
+│   └── pom.xml
+├── soapui/
+│   └── DemoQA-SoapUI-Project.xml
+├── jmeter/
+│   └── DemoQA_JMeterTest.jmx
+└── docs/
+    └── HowToRun.md
+
 ```
 
 ## ✅ Casos de prueba principales
